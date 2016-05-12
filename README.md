@@ -2,6 +2,7 @@
 ##目录
 1. [补0](#补0)
 
+###补0
  ```javascript
    function leftpad (str, len, ch) {
       str = String(str);
