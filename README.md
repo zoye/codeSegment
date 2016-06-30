@@ -18,7 +18,7 @@
    leftpad(9,3,0) //009
    leftpad('foo',5,0) //00foo
  ```
- ###数字转换为大写金额
+###数字转换为大写金额
  ```javascript
  var digitUppercase = function(n) {
     var fraction = ['角', '分'];
